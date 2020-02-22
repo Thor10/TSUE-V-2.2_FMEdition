@@ -1,27 +1,47 @@
-# TSUE-V-2.2_FMEditio
+# TSUE-V-2.2_FMEdition
 Upload the contents of the folder (DirRoot) All of the files to your RootDir .
 
 NOTE: Set Up Instructions - Please take note : (make sure those folders are accessible by chmod 0777).
 data/
+
 data/announceLog
+
 data/avatars/l
+
 data/avatars/m
+
 data/avatars/s
+
 data/backups
+
 data/cache
+
 data/countryFlags
+
 data/downloads/files
+
 data/downloads/previews
+
 data/errors
+
 data/gallery/l
+
 data/gallery/s
+
 data/languageFlags
+
 data/posts
+
 data/smilies
+
 data/subTitles
+
 data/torrents/auto_uploader
+
 data/torrents/category_images
+
 data/torrents/imdb
+
 data/torrents/nfo 
 
 Step 2: Install the application
