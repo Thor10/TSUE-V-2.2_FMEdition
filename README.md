@@ -46,11 +46,17 @@ data/torrents/imdb
 data/torrents/nfo 
 
 Step 2: Install the application
+
 Open include (library/config/database_config.php) Add all the Database info there
+
 Inport the Database in Database/database
+
 Mysql Version: 10.1.28-MariaDB PHP Version: 5.6.32
+
 Manage Themes Create a New Theme - Import a Theme
+
 Click on Import a Theme
+
 Site mail must be noreply@yourmailhere
 
 
