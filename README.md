@@ -2,6 +2,7 @@
 Upload the contents of the folder (DirRoot) All of the files to your RootDir .
 
 NOTE: Set Up Instructions - Please take note : (make sure those folders are accessible by chmod 0777).
+
 data/
 
 data/announceLog
